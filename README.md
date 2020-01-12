@@ -11,5 +11,5 @@ Instructions:
 - Download the .DLL seen in this repository
 - Go over to (where your steam folder is installed)\steamapps\common\V\V_Data\Managed
 - Make a copy of the old Assembly-CSharp.DLL and put it somewhere safe
-- Replace the existing Assembly-CSharp.DLL 9not the copy!) with this new downloaded one
+- Replace the existing Assembly-CSharp.DLL (not the copy!) with this new downloaded one
 - Run OLDTV and enjoy!
