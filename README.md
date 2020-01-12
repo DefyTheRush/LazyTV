@@ -5,6 +5,7 @@ Features:
 - Ability to click left or right without being wrong (works with Keyboard too!)
 - Ability to type correct answers for any quizzes you see
 - Achievements disabled (to prevent cheaters)
+- Gaining CP disabled (to prevent cheaters)
 - Works with the latest version of OldTV
 
 Instructions:
