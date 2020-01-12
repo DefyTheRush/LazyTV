@@ -13,3 +13,6 @@ Instructions:
 - Make a copy of the old Assembly-CSharp.DLL and put it somewhere safe
 - Replace the existing Assembly-CSharp.DLL (not the copy!) with this new downloaded one
 - Run OLDTV and enjoy!
+
+Notes:
+- Doing a Factory Reset can cause un-intended side effects which cannot be recovered, do not do it!
